@@ -1,0 +1,9 @@
+com\example\demo\Tutoria2Application.class
+com\example\controllers\DocenteController.class
+com\example\repositories\DocenteRepository.class
+com\example\services\DocenteServices.class
+com\example\models\Estudiante.class
+com\example\services\EstudianteServices.class
+com\example\controllers\EstudianteController.class
+com\example\models\Docente.class
+com\example\repositories\EstudianteRepository.class
